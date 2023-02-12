@@ -1,0 +1,8 @@
+.header-container{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: bold;
+}

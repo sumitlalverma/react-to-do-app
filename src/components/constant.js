@@ -1,0 +1,15 @@
+export const TASKS = [
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+  { name: "I have to complete my assignment", isCompleted: false },
+];
